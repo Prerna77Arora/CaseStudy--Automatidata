@@ -63,6 +63,7 @@ I decided to **predict generous tippers instead**, which:
 └── README.md                         # Project overview (this file)
 ---
 
+
 ## 🛠 Tools & Skills
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Machine Learning:** Scikit-learn (Decision Trees, Random Forest, Model Evaluation)  
@@ -71,6 +72,7 @@ I decided to **predict generous tippers instead**, which:
 - **Ethical ML Practices:** Aligning objectives to avoid harm and bias  
 
 ---
+
 
 ## 📈 Workflow (PACE Framework)
 1. **Plan**  
