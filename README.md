@@ -1,4 +1,4 @@
-# CaseStudy--Automatidata
+# CaseStudy-Automatidata
 # 🚖 Automatidata: Predicting Generous Tippers (Course 6 ML Project)
 
 ## 📖 Project Overview
